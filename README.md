@@ -85,7 +85,7 @@ I hope you will LoveIt ❤️!
 
 * **Gravatar** supported by [Gravatar](https://gravatar.com)
 * Local **Avatar** supported
-* Up to **67** social links supported
+* Up to **68** social links supported
 * Up to **24** share sites supported
 * **Disqus** comment system supported by [Disqus](https://disqus.com)
 * **Gitalk** comment system supported by [Gitalk](https://github.com/gitalk/gitalk)
@@ -117,6 +117,7 @@ I hope you will LoveIt ❤️!
 * **Custom script** shortcode
 * **Animated typing** supported by [TypeIt](https://typeitjs.com/)
 * **Cookie consent banner** supported by [cookieconsent](https://github.com/osano/cookieconsent)
+* **Person** shortcode
 * ...
 
 ## [Documentation](https://hugoloveit.com/categories/documentation/)
@@ -149,6 +150,7 @@ LoveIt supports the following languages:
 * Thai
 * Telugu
 * Indonesian
+* Turkish
 * [Contribute with a new language](https://github.com/dillonzq/LoveIt/pulls)
 
 [Languages Compatibility](https://hugoloveit.com/theme-documentation-basics/#language-compatibility)

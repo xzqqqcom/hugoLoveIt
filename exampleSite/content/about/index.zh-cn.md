@@ -19,7 +19,7 @@ math:
 [![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
 {{< /style >}}
 
-> [:(far fa-kiss-wink-heart fa-fw): LoveIt](https://github.com/dillonzq/LoveIt) 是一个由 [Dillon](https://dillonzq.com) 开发的**简洁**、**优雅**且**高效**的 [Hugo](https://gohugo.io/) 博客主题。
+> [:(far fa-kiss-wink-heart fa-fw): LoveIt](https://github.com/dillonzq/LoveIt) 是一个由 {{< person "https://dillonzq.com/" Dillon "LoveIt 主题的作者" "/Dillon.png" >}} 开发的**简洁**、**优雅**且**高效**的 [Hugo](https://gohugo.io/) 博客主题。
 >
 > 它的原型基于 [LeaveIt 主题](https://github.com/liuzc/LeaveIt) 和 [KeepIt 主题](https://github.com/Fastbyte01/KeepIt)。
 
@@ -53,7 +53,7 @@ math:
 
 * :(far fa-user fa-fw): 支持 **[Gravatar](https://gravatar.com)** 头像
 * :(fas fa-user-circle fa-fw): 支持本地**头像**
-* :(far fa-id-card fa-fw): 支持多达 **67** 种社交链接
+* :(far fa-id-card fa-fw): 支持多达 **68** 种社交链接
 * :(fas fa-share-square fa-fw): 支持多达 **24** 种网站分享
 * :(far fa-comment fa-fw): 支持 **[Disqus](https://disqus.com)** 评论系统
 * :(far fa-comment-dots fa-fw): 支持 **[Gitalk](https://github.com/gitalk/gitalk)** 评论系统
@@ -85,6 +85,7 @@ math:
 * :(fab fa-js-square fa-fw): 支持**自定义脚本**的 shortcode
 * :(fas fa-i-cursor fa-fw): 支持基于 [TypeIt](https://typeitjs.com/) 的**打字动画** shortcode
 * :(fas fa-cookie-bite fa-fw): 支持基于 [cookieconsent](https://github.com/osano/cookieconsent) 的 **Cookie 许可横幅**
+* :(far fa-user-circle fa-fw): 支持**人物标签**的 shortcode
 * ...
 
 ### 许可协议

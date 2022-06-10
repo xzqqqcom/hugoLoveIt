@@ -80,7 +80,7 @@
 
 * 支持 **[Gravatar](https://gravatar.com)** 头像
 * 支持本地**头像**
-* 支持多达 **67** 种社交链接
+* 支持多达 **68** 种社交链接
 * 支持多达 **24** 种网站分享
 * 支持 **[Disqus](https://disqus.com)** 评论系统
 * 支持 **[Gitalk](https://github.com/gitalk/gitalk)** 评论系统
@@ -112,6 +112,7 @@
 * 支持**自定义脚本**的 shortcode
 * 支持基于 [TypeIt](https://typeitjs.com/) 的**打字动画** shortcode
 * 支持基于 [cookieconsent](https://github.com/osano/cookieconsent) 的 **Cookie 许可横幅**
+* 支持**人物标签**的 shortcode
 * ...
 
 ## [文档](https://hugoloveit.com/zh-cn/categories/documentation/)
@@ -144,6 +145,7 @@ LoveIt 支持下列语言:
 * 泰语
 * 泰卢固语
 * 印尼语
+* 土耳其语
 * [贡献一种新的语言](https://github.com/dillonzq/LoveIt/pulls)
 
 [语言兼容性](https://hugoloveit.com/zh-cn/theme-documentation-basics/#language-compatibility)
