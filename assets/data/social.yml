@@ -4,7 +4,7 @@ github:
   Prefix: https://github.com/
   Title: GitHub
   Icon:
-    Class: fab fa-github-alt fa-fw
+    Class: fab fa-github fa-fw
 
 # 002: LinkedIn
 linkedin:
@@ -495,7 +495,7 @@ bilibili:
 # 063: Discord User Profile
 discord:
   Weight: 63
-  Prefix: discordapp.com/users/
+  Prefix: https://discordapp.com/users/
   Title: Discord
   Icon:
     Class: fab fa-discord fa-fw
@@ -538,6 +538,14 @@ kaggle:
   Title: Kaggle
   Icon:
     Class: fab fa-kaggle fa-fw
+
+# Phone
+phone:
+  Weight: 98
+  Template: tel:%v
+  Title: Phone
+  Icon:
+    Class: fas fa-phone fa-fw
 
 # Email
 email:
