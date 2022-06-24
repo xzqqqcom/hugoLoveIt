@@ -539,6 +539,20 @@ kaggle:
   Icon:
     Class: fab fa-kaggle fa-fw
 
+# 069: MediaWiki
+mediawiki:
+  Weight: 69
+  Title: MediaWiki
+  Icon:
+    Class: fab fa-wikipedia-w fa-fw
+
+# 070: Plume
+plume:
+  Weight: 70
+  Title: Plume
+  Icon:
+    Src: svg/icons/plume.svg
+
 # Phone
 phone:
   Weight: 98

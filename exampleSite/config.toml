@@ -351,6 +351,8 @@ enableEmoji = true
     ORCID = ""
     Pleroma = ""
     Kaggle = ""
+    MediaWiki= ""
+    Plume = ""
     Email = ""
     RSS = ""
 
