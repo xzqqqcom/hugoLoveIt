@@ -217,6 +217,23 @@ languageName = "简体中文"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 
+# 默认每页列表显示的文章数目
+paginate = 12
+# 谷歌分析代号 [UA-XXXXXXXX-X]
+googleAnalytics = ""
+# 版权描述，仅仅用于 SEO
+copyright = ""
+
+# 是否使用 robots.txt
+enableRobotsTXT = true
+# 是否使用 git 信息
+enableGitInfo = true
+# 是否使用 emoji 代码
+enableEmoji = true
+
+# 忽略一些构建错误
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
 # 作者配置
 [author]
   name = "xxxx"
@@ -464,6 +481,8 @@ hasCJKLanguage = true
     Kaggle = ""
     MediaWiki= ""
     Plume = ""
+    HackTheBox = ""
+    RootMe= ""
     Phone = ""
     Email = "xxxx@xxxx.com"
     RSS = true # {{< version 0.2.0 >}}
@@ -936,6 +955,8 @@ $code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospac
 | 泰卢固语 | `te` | `te` | :(far fa-square fa-fw): | :(far fa-square fa-fw): |
 | 印尼语 | `id` | `id` | :(far fa-square fa-fw): | :(far fa-square fa-fw): |
 | 土耳其语 | `tr` | `tr` | :(far fa-square fa-fw): | :(far fa-check-square fa-fw): |
+| 韩语 | `ko` | `ko` | :(far fa-square fa-fw): | :(far fa-square fa-fw): |
+| 印地语 | `hi` | `hi` | :(far fa-square fa-fw): | :(far fa-square fa-fw): |
 
 ### 4.2 基本配置
 
